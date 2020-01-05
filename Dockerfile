@@ -1,3 +1,2 @@
-FROM centos
-MAINTAINER hyf
-CMD echo "hello docker"
+FROM hello-world
+MAINTAINER 1145291570
